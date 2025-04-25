@@ -5,4 +5,3 @@ Facts about me:
 - ⚙️ Pursuing concentration in Cyber Security and Software Development
 - ⚡ I’m always looking to expand my knowledge and skills
 - 📫 cam@cameronstorer.com
-- 📱 337.998.2065
