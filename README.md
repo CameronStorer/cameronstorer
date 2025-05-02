@@ -1,4 +1,4 @@
-Hi, I'm **Cameron Storer** and welcome to my GitHub!
+Hi, I'm **Cameron Storer**!
 
 Facts about me:
 - 💻 Computer Science student at Louisiana Tech University
