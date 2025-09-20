@@ -5,4 +5,4 @@ Facts about me:
 - ⚙️ Pursuing concentration in *Cyber Security*
 - 📫 contact@cameronstorer.com
 - ⚡ I’m always expanding my knowledge and skillset
-- ⌨️ I enjoy homelabbing and software development
+- ⌨️ I enjoy homelabbing and developing software
